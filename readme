@@ -1,1 +1,2 @@
-test1
+SolarisAI is a set of tools for making big artificial intelligence models available to the public domain.
+The purpose of this repository is to provide a set of tools to create a dedicated distributed cluster which will be used to train big machine learning models and share such models and store those models to the people (from the people to the people scheme), each model trained will be licensed under GPLv3.
