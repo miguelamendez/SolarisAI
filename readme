@@ -1,3 +1,4 @@
 SolarisAI is a set of tools for making big artificial intelligence models available to the public.
 The purpose of this repository is to provide a set of tools to create a dedicated distributed cluster which will be used to train big machine learning models and distribute those models free of charge (from the people to the people scheme).
 While Solaris AI will be licensed under the MIT License , the models obtained from it could be licensed as MIT , GPLv3 or/and depending on the use case.
+Furthermore we will extend the license by using the AIFAITH license terms.
